@@ -13,5 +13,6 @@
     "pruebas"
   ],
   "author": "Silas Duarte <silas.duarte.h@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
