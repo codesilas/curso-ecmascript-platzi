@@ -14,5 +14,8 @@
   ],
   "author": "Silas Duarte <silas.duarte.h@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
